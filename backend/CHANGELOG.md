@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.0.0...v1.1.0) (2020-05-02)
+
+
+### Features
+
+* add jwt token on session service and session route ([166ef48](https://github.com/almerindo/rocketseat-gobarber/commit/166ef48cbd03843736d6221344ed3527d0dc4176))
+
 # 1.0.0 (2020-05-02)
 
 
