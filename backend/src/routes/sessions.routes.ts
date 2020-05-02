@@ -9,11 +9,11 @@ sessionsRoute.post('/', async (request, response) => {
 
     const authenticateUser = new AuthenticateUserService();
 
-    const { user } = await authenticateUser.execute({ email, password });
+    const { user, token } = await authenticateUser.execute({ email, password });
 
     delete user.password;
 
-    return response.status(200).json({ user });
+    return response.status(200).json({ user, token });
   } catch (error) {
     return response.status(400).json({ error: error.message });
   }
