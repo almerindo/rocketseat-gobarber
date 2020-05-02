@@ -1,0 +1,15 @@
+# 1.0.0 (2020-05-02)
+
+
+### Bug Fixes
+
+* Fix name in package.json ([b91675c](https://github.com/almerindo/rocketseat-gobarber/commit/b91675ce98189122e87c709ed35cfaaa0e74da9d))
+
+
+### Features
+
+* add bcryptjs and password hash ([85d4dc1](https://github.com/almerindo/rocketseat-gobarber/commit/85d4dc113e0e26eedfdf7a92922e7a41d2911723))
+* add Repository TypeORM ([aa02a0b](https://github.com/almerindo/rocketseat-gobarber/commit/aa02a0beabfa32c515bc3b6d0c7b5e370b814a64))
+* add session route and service ([c15056d](https://github.com/almerindo/rocketseat-gobarber/commit/c15056d386fd9e5ba8e7ba8f95ed28fe97d631a3))
+* add typeorm and CreateAppointments Migration ([a28bd05](https://github.com/almerindo/rocketseat-gobarber/commit/a28bd053c27e25ea214d6e899e4bfb14ab7795ed))
+* typeorm add creat user ([7d8916a](https://github.com/almerindo/rocketseat-gobarber/commit/7d8916af84ba87ff21319c6397eb8c6ac3b9b4f4))
