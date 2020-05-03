@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.3.0...v1.4.0) (2020-05-03)
+
+
+### Features
+
+* add route files/  to show uploaded files by name ([e8847e3](https://github.com/almerindo/rocketseat-gobarber/commit/e8847e3a5a1ba56002d17db8860d89c910db9d08))
+
 # [1.3.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.2.0...v1.3.0) (2020-05-03)
 
 
