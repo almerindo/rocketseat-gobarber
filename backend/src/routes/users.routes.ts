@@ -38,7 +38,7 @@ usersRoute.patch(
         user_id: request.user.id,
       });
 
-      return response.status(200).json();
+      return response.status(200).json(user);
     } catch (error) {
       return response.status(400).json({ error: error.message });
     }
