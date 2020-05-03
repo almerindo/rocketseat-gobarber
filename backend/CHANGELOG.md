@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.1.0...v1.2.0) (2020-05-03)
+
+
+### Features
+
+* add multer to upload files ([eefba95](https://github.com/almerindo/rocketseat-gobarber/commit/eefba95fe7c62adeea80471cca366531d9bdd4d0))
+
 # [1.1.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.0.0...v1.1.0) (2020-05-02)
 
 
