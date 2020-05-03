@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.4.1...v1.5.0) (2020-05-03)
+
+
+### Features
+
+* add class ErrorApp ([d1c1d60](https://github.com/almerindo/rocketseat-gobarber/commit/d1c1d606988a91719112e7ad81b0c782e294520f))
+
 ## [1.4.1](https://github.com/almerindo/rocketseat-gobarber/compare/v1.4.0...v1.4.1) (2020-05-03)
 
 
