@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.2.0...v1.3.0) (2020-05-03)
+
+
+### Features
+
+* add uploadService and route to upload avatar ([df6333d](https://github.com/almerindo/rocketseat-gobarber/commit/df6333d2998a42dca8d92df8233b4d02613bcdb2))
+
 # [1.2.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.1.0...v1.2.0) (2020-05-03)
 
 
