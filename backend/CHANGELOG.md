@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.5.0...v1.6.0) (2020-05-03)
+
+
+### Features
+
+* add error middleware ([84c891f](https://github.com/almerindo/rocketseat-gobarber/commit/84c891f37989fe4fa690c4cf59475c20eb7ea807))
+
 # [1.5.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.4.1...v1.5.0) (2020-05-03)
 
 
