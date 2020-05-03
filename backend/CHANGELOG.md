@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/almerindo/rocketseat-gobarber/compare/v1.4.0...v1.4.1) (2020-05-03)
+
+
+### Bug Fixes
+
+* fix increase release version on package.json ([cb6b944](https://github.com/almerindo/rocketseat-gobarber/commit/cb6b944dbe0d969dc9974433dd2d7dc14316ba7a))
+
 # [1.4.0](https://github.com/almerindo/rocketseat-gobarber/compare/v1.3.0...v1.4.0) (2020-05-03)
 
 
